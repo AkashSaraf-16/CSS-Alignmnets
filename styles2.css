@@ -20,7 +20,10 @@ h1 {
   padding: 25px;
 }
 .head-wrapper {
+  width: 70%;
+  align-self: center;
   background-color: cadetblue;
+  margin-bottom: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
