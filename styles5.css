@@ -30,5 +30,13 @@ h1 {
 }
 .large {
   background-color: cadetblue;
-  width: 50%;
+  width: 45%;
+}
+.small-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.tiny {
+  width: 30%;
+  height: 50px;
 }
